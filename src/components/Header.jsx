@@ -5,7 +5,7 @@ export const NavBar = ['Inizio', 'Chi Sono', 'Portfolio', 'Contattami']
 
 function Header() {
   return (
-    <header id='header' className='fixed z-10 w-full'>
+    <header id='header' className='fixed z-20 w-full'>
     <div id='nav' className={`shadow-xl flex flex-row flex-wrap justify-center items-center w-screen m-2xl h-12 px-12 bg-fair-pink-200`}>
       <nav  className='w-full flex flex-row flex-nowrap gap-6 justify-center items-center h-auto text-sm xl:max-w-2xl lg:gap-14'>
           {
