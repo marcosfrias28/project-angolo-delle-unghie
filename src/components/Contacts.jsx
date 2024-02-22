@@ -13,7 +13,7 @@ function Contacts() {
             <SocialCard name="Whatsapp" link="" children={<WhatsappIcon className="" />} />
         </section>
         <section className="absolute h-auto w-96 opacity-10">
-             <Logo/>
+             <Logo width={"100%"} height={"100%"}/>
         </section>
       </section>
     )

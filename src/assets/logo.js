@@ -3,8 +3,8 @@ export default function Logo(props) {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
-      width={"100%"}
-      height={"100%"}
+      width={500}
+      height={500}
       viewBox="0 0 375 375"
       {...props}
     >
