@@ -1,5 +1,5 @@
 import Logo from "../assets/logo.js";
-import backgroundImage from "../assets/bg-nail2.png";
+import backgroundImage from "../assets/bg-nail2.webp";
 
 function Home() {
     return (
